@@ -36,7 +36,6 @@ The system consists of three main boards:
 
 The project was successfully implemented in hardware. You can view the system in action through this [link](https://drive.google.com/drive/folders/1Reht7Lhxi9n5DfqujkTGu-U8IwrOOwM4).
 
-- [Your Name]
 
 ## University
 
